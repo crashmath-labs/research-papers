@@ -1,7 +1,7 @@
 # Provably Fair Crash Rounds Dataset (Sample Archive)
 
 **Identifier**: `CRASHMATH-DATA-2026-04`  
-**Authors**: Dr. Daniel Reeves, Ph.D. & Elena Varga, M.Sc.  
+**Authors**: CrashMath Quantitative Research Labs  
 **Institution**: [CrashMath Quantitative Research Labs](https://crashmath.org)  
 **License**: [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
@@ -12,7 +12,7 @@
 This dataset contains a contiguous sequence of **10,000 Provably Fair crash game rounds** generated using standard industry cryptographic specifications (`HMAC-SHA256`).
 
 It serves as the reproducible benchmark dataset analyzed in the academic preprint:
-> *Reeves, D., & Varga, E. (2026). Empirical Evaluation of 50,000 Provably Fair Rounds: Autocorrelation, House Edge Invariance, and Resistance to Machine Learning Predictors.* Technical Report CRASHMATH-TECH-2026-04, CrashMath Quantitative Research Labs.
+> *CrashMath Quantitative Research Labs (2026). Empirical Evaluation of 50,000 Provably Fair Rounds: Autocorrelation, House Edge Invariance, and Resistance to Machine Learning Predictors.* Technical Report CRASHMATH-TECH-2026-04, CrashMath Quantitative Research Labs.
 
 ---
 

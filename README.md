@@ -23,7 +23,7 @@ Our objective is to replace opaque claims with **open-source mathematical proof*
 ### 📄 Paper 1: CRASHMATH-TECH-2026-04
 
 > **"Empirical Evaluation of 50,000 Provably Fair Rounds: Autocorrelation, House Edge Invariance, and Resistance to Machine Learning Predictors"**  
-> **Authors**: Dr. Daniel Reeves, Ph.D. (Lead Quantitative Risk Modeler) & Elena Varga, M.Sc. (Lead Cryptographic Protocol Auditor)  
+> **Authors**: CrashMath Quantitative Research Labs  
 > **Published**: April 2026  
 > **Format**: [PDF Technical Report](papers/CRASHMATH-TECH-2026-04/paper.pdf) (Mirror: [crashmath.org/papers](https://crashmath.org/papers/provably-fair-empirical-study-2026.pdf)) | [LaTeX Source](papers/CRASHMATH-TECH-2026-04/paper.tex) | [BibTeX](papers/CRASHMATH-TECH-2026-04/references.bib)
 
@@ -109,9 +109,9 @@ Expected Output:
 ## 📚 Citation (BibTeX)
 
 ```bibtex
-@techreport{reeves2026empirical,
+@techreport{crashmath2026empirical,
   title={Empirical Evaluation of 50,000 Provably Fair Rounds: Autocorrelation, House Edge Invariance, and Resistance to Machine Learning Predictors},
-  author={Reeves, Daniel and Varga, Elena},
+  author={{CrashMath Quantitative Research Labs}},
   institution={CrashMath Quantitative Research Labs},
   number={CRASHMATH-TECH-2026-04},
   year={2026},

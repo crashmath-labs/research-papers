@@ -2,7 +2,7 @@
 """
 Provably Fair Dataset Verification & Statistical Independence Audit
 CrashMath Quantitative Research Labs
-Authors: Dr. Daniel Reeves, Ph.D. & Elena Varga, M.Sc.
+Authors: CrashMath Quantitative Research Labs
 
 Verifies end-to-end cryptographic integrity of recorded crash rounds
 against HMAC-SHA256 specifications and tests for serial autocorrelation.
