@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these datasets, papers or scripts in your work, please cite them as below."
+title: "Empirical Evaluation of 50,000 Provably Fair Rounds: Autocorrelation, House Edge Invariance, and Resistance to Machine Learning Predictors"
+authors:
+  - name: "CrashMath Research Labs"
+    affiliation: "Applied Probability Institute"
+    website: "https://crashmath.org"
+date-released: 2026-09-17
+url: "https://crashmath.org/papers/provably-fair-empirical-study-2026.pdf"
+repository-code: "https://github.com/crashmath-labs/research-papers"
+keywords:
+  - "provably fair"
+  - "crash games"
+  - "hmac-sha256"
+  - "house edge"
+  - "autocorrelation"
+  - "open science"
+license: CC-BY-4.0
